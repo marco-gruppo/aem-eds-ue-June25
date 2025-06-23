@@ -1,20 +1,20 @@
 {
     "mappings": [
-      "/content/mycitisignal/:/",
-      "/content/mycitisignal/configuration:/.helix/config.json",
-      "/content/mycitisignal/metadata:/metadata.json",
-      "/content/mycitisignal/configs:/configs.json",
-      "/content/mycitisignal/configs-stage:/configs-stage.json",
-      "/content/mycitisignal/configs-dev:/configs-dev.json",
-      "/content/mycitisignal/redirects:/redirects.json",
-      "/content/mycitisignal/placeholders:/placeholders.json",
-      "/content/mycitisignal/products/recommended-products:/products/recommended-products.json",
-      "/content/mycitisignal/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/",
-      "/content/mycitisignal/designs/design3:/designs/design3.json"
+      "/content/aem-eds-ue-June25/:/",
+      "/content/aem-eds-ue-June25/configuration:/.helix/config.json",
+      "/content/aem-eds-ue-June25/metadata:/metadata.json",
+      "/content/aem-eds-ue-June25/configs:/configs.json",
+      "/content/aem-eds-ue-June25/configs-stage:/configs-stage.json",
+      "/content/aem-eds-ue-June25/configs-dev:/configs-dev.json",
+      "/content/aem-eds-ue-June25/redirects:/redirects.json",
+      "/content/aem-eds-ue-June25/placeholders:/placeholders.json",
+      "/content/aem-eds-ue-June25/products/recommended-products:/products/recommended-products.json",
+      "/content/aem-eds-ue-June25/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/dam/aem-eds-ue-June25/images/products/:/images/products/",
+      "/content/aem-eds-ue-June25/designs/design3:/designs/design3.json"
     ],
     "includes": [
-      "/content/mycitisignal",
-      "/content/dam/citisignal/images/products/" 
+      "/content/aem-eds-ue-June25",
+      "/content/dam/aem-eds-ue-June25/images/products/" 
     ]
 }
