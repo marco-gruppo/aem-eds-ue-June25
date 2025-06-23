@@ -10,7 +10,7 @@
       "/content/aem-eds-ue-June25/placeholders:/placeholders.json",
       "/content/aem-eds-ue-June25/products/recommended-products:/products/recommended-products.json",
       "/content/aem-eds-ue-June25/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/aem-eds-ue-June25/images/products/:/images/products/",
+      "/content/dam/citisignal/images/products/:/images/products/",
       "/content/aem-eds-ue-June25/designs/design3:/designs/design3.json"
     ],
     "includes": [
