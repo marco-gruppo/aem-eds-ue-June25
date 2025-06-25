@@ -15,6 +15,7 @@
     ],
     "includes": [
       "/content/aem-eds-ue-June25",
-      "/content/dam/citisignal/images/products/" 
+      "/content/dam/citisignal/images/products/",
+      "/content/dam/aem-eds-marco/eurospin" 
     ]
 }
