@@ -408,7 +408,8 @@ main pre {
 .block a:any-link.button {
   width: fit-content;
   padding: var(--button-padding);
-  background-color: var(--primary-color);
+  /*background-color: var(--primary-color);*/
+  background-color: #174386;
   border-radius: var(--button-radius);
 }
 
@@ -452,7 +453,8 @@ a.button-primary {
   background-color: var(--color-brand-500);
   font-size: var(--body-font-size-md);
   font-weight: 600;
-  color: var(--color-neutral-50);
+  /*color: var(--color-neutral-50);*/
+  color: #174386;
   padding: 8px 30px;
   width: fit-content;
   height: auto;
