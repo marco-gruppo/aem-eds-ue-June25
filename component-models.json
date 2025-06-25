@@ -809,7 +809,7 @@
       }
     ]
   },
-  {
+{
     "id": "card",
     "fields": [
       {
@@ -820,11 +820,11 @@
         "multi": false
       },
       {
-      "component": "richtext",
-      "name": "text",
-      "value": "",
-      "label": "Text Overlay",
-      "valueType": "string"
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
       }
     ]
   },
