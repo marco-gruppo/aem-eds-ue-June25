@@ -408,6 +408,7 @@ main pre {
 .block a:any-link.button {
   width: fit-content;
   padding: var(--button-padding);
+  color: #FFF;
   /*background-color: var(--primary-color);*/
   background-color: #174386;
   border-radius: var(--button-radius);
