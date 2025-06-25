@@ -826,15 +826,6 @@
       "label": "Text Overlay",
       "valueType": "string"
       }
-        ]
-      },
-      {
-        "component": "richtext",
-        "name": "hero_text",
-        "value": "",
-        "label": "Description",
-        "valueType": "string"
-      }
     ]
   },
   {
