@@ -825,25 +825,7 @@
       "value": "",
       "label": "Text Overlay",
       "valueType": "string"
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "heading",
-        "label": "Heading",
-        "value": ""
-      },
-      {
-        "component": "select",
-        "name": "headingType",
-        "value": "",
-        "label": "Heading Type",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "h1",
-            "value": "h1"
-          }
+      }
         ]
       },
       {
