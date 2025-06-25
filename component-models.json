@@ -820,11 +820,11 @@
         "multi": false
       },
       {
-        "component": "richtext",
-        "name": "text",
-        "value": "",
-        "label": "Text",
-        "valueType": "string"
+      "component": "text-area",
+      "name": "text",
+      "value": "",
+      "label": "Text Overlay",
+      "valueType": "string"
       },
       {
         "component": "text",
