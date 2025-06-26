@@ -48,7 +48,7 @@ main .hero-container > div {
 .block.hero > div:nth-child(2),
 .block.hero > div:nth-child(3) {
   flex: 1 1 50%;
-  padding-top: 25%;
+  padding-top: 30%;
 }
 
 .block.hero div:nth-child(2) > div {
