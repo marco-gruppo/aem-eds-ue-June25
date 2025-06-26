@@ -440,10 +440,10 @@
                 "value": "mobile-hidden"
               }
             ]
-          }
+          },
           {
-          "name": "Teaser Layout",
-          "children": [
+            "name": "Teaser Layout",
+            "children": [
               {
                 "name": "Default (Vertical)", 
                 "value": "teaser--vertical"
