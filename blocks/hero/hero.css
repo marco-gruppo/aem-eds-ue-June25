@@ -125,7 +125,8 @@ main .hero-container > div {
   inset: 0;
   object-fit: cover;
   box-sizing: border-box;
-  top: 20%;
+  /*top: 20%;*/
+  top: 80%;
 }
 
 .block.hero img {
