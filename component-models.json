@@ -132,7 +132,17 @@
             "value": "h6"
           }
         ]
-      }
+      },
+      {
+        "type": "select",
+        "label": "Alignement",
+        "name": "alignment",
+        "options": [
+          { "label": "Left", "value": "left" },
+          { "label": "Center",   "value": "center" },
+          { "label": "Right",   "value": "right" }
+        ]
+      }    
     ]
   },
   {
