@@ -444,19 +444,6 @@
         ]
       },
       {
-        "type": "select",
-        "label": "Teaser Layout",
-        "name": "classes",
-        "options": [
-            { "label": "Default (Vertical)", "value": "teaser--vertical" },
-            { "label": "Side-by-side (Horizontal)", "value": "teaser--horizontal" },
-            { "label": "Full Width", "value": "teaser--full-width" },
-            { "label": "With Margins", "value": "teaser--with-margins" },
-            { "label": "Compact", "value": "teaser--compact" },
-            { "label": "Highlighted", "value": "teaser--highlighted" }
-        ]
-      },
-      {
         "component": "reference",
         "valueType": "string",
         "name": "image",
@@ -491,6 +478,19 @@
         "value": "",
         "label": "Button Link",
         "valueType": "string"
+      },
+      {
+        "type": "select",
+        "label": "Teaser Layout",
+        "name": "classes",
+        "options": [
+            { "label": "Default (Vertical)", "value": "teaser--vertical" },
+            { "label": "Side-by-side (Horizontal)", "value": "teaser--horizontal" },
+            { "label": "Full Width", "value": "teaser--full-width" },
+            { "label": "With Margins", "value": "teaser--with-margins" },
+            { "label": "Compact", "value": "teaser--compact" },
+            { "label": "Highlighted", "value": "teaser--highlighted" }
+       ]
       }
     ]
   },
