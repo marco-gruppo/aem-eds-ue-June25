@@ -126,7 +126,7 @@ main .hero-container > div {
   object-fit: cover;
   box-sizing: border-box;
   /*top: 20%;*/
-  bottom: -20%;
+  bottom: -80%;
 }
 
 .block.hero img {
