@@ -135,7 +135,7 @@
       },
       {
         "component": "select",
-        "name": "text-alignement",
+        "name": "text-align",
         "value": "left",
         "label": "Text Alignement",
         "valueType": "string",
