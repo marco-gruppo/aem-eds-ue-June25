@@ -140,9 +140,18 @@
         "label": "Alignement",
         "valueType": "string",
         "options": [
-          { "label": "Left", "value": "left" },
-          { "label": "Center",   "value": "center" },
-          { "label": "Right",   "value": "right" }
+          { 
+            "name": "Left", 
+            "value": "left" 
+          },
+          { 
+            "name": "Center",   
+            "value": "center" 
+          },
+          { 
+            "name": "Right",   
+            "value": "right" 
+          }
         ]
       }    
     ]
