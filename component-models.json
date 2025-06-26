@@ -94,7 +94,7 @@
     "id": "title",
     "fields": [
       {
-        "component": "text",
+        "component": "richtext",
         "valueType": "string",
         "name": "jcr:title",
         "value": "",
