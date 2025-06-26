@@ -134,9 +134,11 @@
         ]
       },
       {
-        "type": "select",
-        "label": "Alignement",
+        "component": "select",
         "name": "alignment",
+        "value": "left",
+        "label": "Alignement",
+        "valueType": "string",
         "options": [
           { "label": "Left", "value": "left" },
           { "label": "Center",   "value": "center" },
