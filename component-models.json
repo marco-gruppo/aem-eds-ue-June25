@@ -172,7 +172,7 @@
         "label": "Text"
       },
       {
-        "component": "text",
+        "component": "richtext",
         "valueType": "string",
         "name": "title",
         "value": "",
