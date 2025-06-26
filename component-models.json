@@ -441,6 +441,35 @@
               }
             ]
           }
+          {
+          "name": "Teaser Layout",
+          "children": [
+              {
+                "name": "Default (Vertical)", 
+                "value": "teaser--vertical"
+              },
+              { 
+                "name": "Side-by-side (Horizontal)", 
+                "value": "teaser--horizontal" 
+              },
+              { 
+                "name": "Full Width", 
+                "value": "teaser--full-width" 
+              },
+              { 
+                "name": "With Margins", 
+                "value": "teaser--with-margins" 
+              },
+              { 
+                "name": "Compact", 
+                "value": "teaser--compact" 
+              },
+              { 
+                "name": "Highlighted", 
+                "value": "teaser--highlighted" 
+              }
+            ]
+          }
         ]
       },
       {
@@ -478,19 +507,6 @@
         "value": "",
         "label": "Button Link",
         "valueType": "string"
-      },
-      {
-        "type": "select",
-        "label": "Teaser Layout",
-        "name": "classes",
-        "options": [
-            { "label": "Default (Vertical)", "value": "teaser--vertical" },
-            { "label": "Side-by-side (Horizontal)", "value": "teaser--horizontal" },
-            { "label": "Full Width", "value": "teaser--full-width" },
-            { "label": "With Margins", "value": "teaser--with-margins" },
-            { "label": "Compact", "value": "teaser--compact" },
-            { "label": "Highlighted", "value": "teaser--highlighted" }
-       ]
       }
     ]
   },
