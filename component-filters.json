@@ -28,6 +28,8 @@
       "video",
       "icon-block",
       "content-fragment-offer",
+      "map",
+      "offer",
       "faq",
       "event",
       "separator"
@@ -64,6 +66,8 @@
       "commerce-checkout",
       "commerce-order-confirmation",
       "columnsjo",
+      "map",
+      "offer",
       "faq",
       "event",
       "separator"

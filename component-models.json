@@ -1460,6 +1460,37 @@
     ]
   },
   {
+    "id": "map",
+    "fields": [
+      {
+        "component": "text-input",
+        "name": "location",
+        "value": "",
+        "label": "Location",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "offer",
+    "fields": [
+      {
+        "component": "aem-content-fragment",
+        "name": "offerpath",
+        "value": "",
+        "label": "Offer Content Fragment path",
+        "valueType": "string"
+      },
+      {
+        "component": "text-input",
+        "name": "variation",
+        "value": "",
+        "label": "Variation",
+        "valueType": "string"
+      }
+    ]
+  }, 
+  {
     "id": "faq",
     "fields": [
       {
