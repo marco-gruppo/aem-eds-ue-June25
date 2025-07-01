@@ -6,7 +6,8 @@ export default async function decorate(block) {
   /*const aemauthorurl = getAEMAuthor();*/
   const aempublishurl = 'https://publish-p23407-e64064.adobeaemcloud.com';
   const aemauthorurl = 'https://author-p23407-e64064.adobeaemcloud.com';
-  const persistedquery = '/graphql/execute.json/securbank/OfferByPath';
+  /*const persistedquery = '/graphql/execute.json/securbank/OfferByPath';*/
+  const persistedquery = '/graphql/execute.json/citisignal-marketing/offerByPath';
   const offerpath = block.querySelector(':scope div:nth-child(1) > div a').innerHTML.trim();
   const variationname = block.querySelector(':scope div:nth-child(2) > div').innerHTML.trim();
 
