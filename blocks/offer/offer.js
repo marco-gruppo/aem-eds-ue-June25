@@ -2,8 +2,10 @@ import { getAEMPublish, getAEMAuthor } from '../../scripts/endpointconfig.js';
 
 /* eslint-disable no-underscore-dangle */
 export default async function decorate(block) {
-  const aempublishurl = getAEMPublish();
-  const aemauthorurl = getAEMAuthor();
+  /*const aempublishurl = getAEMPublish();*/
+  /*const aemauthorurl = getAEMAuthor();*/
+  const aempublishurl = 'https://publish-p23407-e64064.adobeaemcloud.com';
+  const aemauthorurl = 'https://author-p23407-e64064.adobeaemcloud.com';
   const persistedquery = '/graphql/execute.json/securbank/OfferByPath';
   const offerpath = block.querySelector(':scope div:nth-child(1) > div a').innerHTML.trim();
   const variationname = block.querySelector(':scope div:nth-child(2) > div').innerHTML.trim();
