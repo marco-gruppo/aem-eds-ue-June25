@@ -8,7 +8,12 @@ import { isAuthorEnvironment, moveInstrumentation } from '../../scripts/scripts.
 export default async function decorate(block) {
   /*const aemauthorurl = getMetadata('authorurl') || '';*/
   /*const aempublishurl = getMetadata('publishurl') || '';*/
+<<<<<<< HEAD
   const aempublishurl = 'https://publish-p23407-e64064.adobeaemcloud.com';
+=======
+  
+  const aempublishurl = 'https://author-p23407-e64064.adobeaemcloud.com';
+>>>>>>> ebf5a76a526a8756e95d0cca1c4ce6c0851b58e5
   const aemauthorurl = 'https://author-p23407-e64064.adobeaemcloud.com';
   const persistedquery = '/graphql/execute.json/aem-eds-marco/offerByPath';
   const contentPath = block.querySelector(':scope div:nth-child(1) > div a')?.textContent?.trim();
