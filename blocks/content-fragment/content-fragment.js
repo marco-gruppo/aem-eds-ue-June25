@@ -8,6 +8,7 @@ import { isAuthorEnvironment, moveInstrumentation } from '../../scripts/scripts.
 export default async function decorate(block) {
   /*const aemauthorurl = getMetadata('authorurl') || '';*/
   /*const aempublishurl = getMetadata('publishurl') || '';*/
+  
   const aempublishurl = 'https://author-p23407-e64064.adobeaemcloud.com';
   const aemauthorurl = 'https://author-p23407-e64064.adobeaemcloud.com';
   const persistedquery = '/graphql/execute.json/aem-eds-marco/offerByPath';
